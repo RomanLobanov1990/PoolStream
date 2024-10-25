@@ -1,7 +1,7 @@
 {
   "name": "PoolStream",
   "about": "проект PoolStream v3.0",
-  "version": "1.1",
+  "version": "1.0",
   "notes": "Тестирование обновления github",
   "builds": [
     {
