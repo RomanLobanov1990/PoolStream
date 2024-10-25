@@ -2,7 +2,7 @@
   "name": "PoolStream",
   "about": "проект PoolStream v3.0",
   "version": "1.0",
-  "notes": "Тестирование обновления github",
+  "notes": "Тестирование обновления github 1.0",
   "builds": [
     {
       "chipFamily": "ESP32",
