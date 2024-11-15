@@ -8,7 +8,7 @@
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/RomanLobanov1990/PoolStream/raw/refs/heads/main/firmware.bin",
+          "path": "https://raw.githubusercontent.com/RomanLobanov1990/PoolStream/main/firmware.bin",
           "offset": 0
         }
       ]
