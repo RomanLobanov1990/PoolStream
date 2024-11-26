@@ -1,8 +1,8 @@
 {
   "name": "PoolStream",
-  "about": "проект PoolStream v3.0",
-  "version": "3.0",
-  "notes": "Коррекция паузы и старт/стоп",
+  "about": "проект PoolStream v3",
+  "version": "3.1",
+  "notes": "исправление ошибок в 3.0",
   "builds": [
     {
       "chipFamily": "ESP32",
