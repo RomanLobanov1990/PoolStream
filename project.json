@@ -1,8 +1,8 @@
 {
   "name": "PoolStream",
   "about": "проект PoolStream v3",
-  "version": "3.7",
-  "notes": "исправление мелких ошибок",
+  "version": "3.8",
+  "notes": "добавлены световые эффекты, улучшена стабильность",
   "builds": [
     {
       "chipFamily": "ESP32",
